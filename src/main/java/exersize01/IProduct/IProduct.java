@@ -1,6 +1,6 @@
-package exersize01.entity.product;
+package exersize01.IProduct;
 
-import exersize01.entity.part.IProductPart;
+import exersize01.IProductPart.IProductPart;
 
 public interface IProduct {
 

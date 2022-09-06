@@ -1,8 +1,8 @@
-package exersize01.entity.product.impl;
+package exersize01.IProduct.impl;
 
 
-import exersize01.entity.part.IProductPart;
-import exersize01.entity.product.IProduct;
+import exersize01.IProduct.IProduct;
+import exersize01.IProductPart.IProductPart;
 
 public class Product implements IProduct {
 

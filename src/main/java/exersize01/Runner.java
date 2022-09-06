@@ -1,10 +1,10 @@
 package exersize01;
 
 
-import exersize01.build.product.IAssemblyLine;
-import exersize01.build.product.impl.AssemblyLine;
-import exersize01.entity.product.IProduct;
-import exersize01.entity.product.impl.Product;
+import exersize01.IAssemblyLine.IAssemblyLine;
+import exersize01.IAssemblyLine.impl.AssemblyLine;
+import exersize01.IProduct.IProduct;
+import exersize01.IProduct.impl.Product;
 
 public class Runner {
 

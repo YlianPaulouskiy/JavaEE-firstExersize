@@ -1,9 +1,9 @@
-package exersize01.build.part.impl;
+package exersize01.ILineStep.impl;
 
 
-import exersize01.build.part.ILineStep;
-import exersize01.entity.part.IProductPart;
-import exersize01.entity.part.impl.ProductPart;
+import exersize01.ILineStep.ILineStep;
+import exersize01.IProductPart.IProductPart;
+import exersize01.IProductPart.impl.ProductPart;
 
 public class LineStep implements ILineStep {
 

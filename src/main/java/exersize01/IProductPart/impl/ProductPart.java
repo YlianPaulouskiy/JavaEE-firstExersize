@@ -1,7 +1,7 @@
-package exersize01.entity.part.impl;
+package exersize01.IProductPart.impl;
 
 
-import exersize01.entity.part.IProductPart;
+import exersize01.IProductPart.IProductPart;
 
 public class ProductPart implements IProductPart {
 

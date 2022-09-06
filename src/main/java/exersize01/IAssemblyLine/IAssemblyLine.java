@@ -1,6 +1,6 @@
-package exersize01.build.product;
+package exersize01.IAssemblyLine;
 
-import exersize01.entity.product.IProduct;
+import exersize01.IProduct.IProduct;
 
 public interface IAssemblyLine {
 

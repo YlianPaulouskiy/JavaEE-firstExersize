@@ -1,11 +1,11 @@
-package exersize01.build.product.impl;
+package exersize01.IAssemblyLine.impl;
 
 
-import exersize01.build.part.impl.LineStep;
-import exersize01.build.product.IAssemblyLine;
-import exersize01.entity.part.IProductPart;
-import exersize01.entity.part.impl.ProductPart;
-import exersize01.entity.product.IProduct;
+import exersize01.ILineStep.impl.LineStep;
+import exersize01.IAssemblyLine.IAssemblyLine;
+import exersize01.IProductPart.IProductPart;
+import exersize01.IProductPart.impl.ProductPart;
+import exersize01.IProduct.IProduct;
 
 public class AssemblyLine implements IAssemblyLine {
 
